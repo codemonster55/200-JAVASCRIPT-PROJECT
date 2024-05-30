@@ -19,3 +19,7 @@ A brief description of the ai writer's assistant project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/165-165-ai_writer_s_assistant/)

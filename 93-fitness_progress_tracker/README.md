@@ -19,3 +19,7 @@ A brief description of the fitness progress tracker project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/93-93-fitness_progress_tracker/)

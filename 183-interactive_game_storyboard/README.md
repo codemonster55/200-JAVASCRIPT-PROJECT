@@ -19,3 +19,7 @@ A brief description of the interactive game storyboard project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/183-183-interactive_game_storyboard/)

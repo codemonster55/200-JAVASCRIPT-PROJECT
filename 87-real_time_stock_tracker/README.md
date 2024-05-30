@@ -19,3 +19,7 @@ A brief description of the real-time stock tracker project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/87-87-real_time_stock_tracker/)

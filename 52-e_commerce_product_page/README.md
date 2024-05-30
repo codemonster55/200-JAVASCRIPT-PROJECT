@@ -19,3 +19,7 @@ A brief description of the e-commerce product page project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/52-52-e_commerce_product_page/)

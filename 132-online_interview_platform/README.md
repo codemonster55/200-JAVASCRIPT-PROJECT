@@ -19,3 +19,7 @@ A brief description of the online interview platform project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/132-132-online_interview_platform/)

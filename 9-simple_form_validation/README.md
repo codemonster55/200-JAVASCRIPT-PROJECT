@@ -19,3 +19,7 @@ A brief description of the simple form validation project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/9-9-simple_form_validation/)

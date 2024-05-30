@@ -19,3 +19,7 @@ A brief description of the markdown editor project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/68-68-markdown_editor/)

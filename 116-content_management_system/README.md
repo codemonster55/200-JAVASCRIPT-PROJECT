@@ -19,3 +19,7 @@ A brief description of the content management system project.
 ## Setup
 
 Instructions to set up and run the project.
+
+## Live Demo
+
+[View the project here](https://deepakkumar55.github.io/200-JAVASCRIPT-PROJECT/116-116-content_management_system/)
